@@ -147,7 +147,7 @@ set bg=dark
 " inoremap <Down>  <NOP>
 " inoremap <Left>  <NOP>
 
-inoremap jk <Esc>
+" Trevor's inoremap jk <Esc>
 
 " Set F2 as the binding to toggle the paste mode
 set pastetoggle=<F2>
